@@ -34,5 +34,5 @@ I am a computer science enthusiast with a strong foundation in **Java, C++, web 
   
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debottam-talapatra-8b43a6376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/talapatradebottam/](https://www.instagram.com/talapatradebottam?igsh=MWRrcDZ6eW12enFqcw==))
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/Debottam.Talapatra/](https://www.facebook.com/share/1JXzxP5teK/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/talapatradebottam?igsh=MWRrcDZ6eW12enFqcw==))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1JXzxP5teK/))
